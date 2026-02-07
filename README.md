@@ -1,0 +1,2 @@
+# Big-Data-Architecture-Retail-Value-in-Analytics-Blueprint
+Big-data strategy blueprint covering (1) a cloud-managed Spark + SQL-first architecture recommendation for Veloxa&amp;Co’s real-time e-commerce analytics, and (2) PriMarket retail value creation using Wi-Fi movement analytics, RFID inventory flow, and third-party POI signals for layout, loss prevention, personalization and expansion decisions.
